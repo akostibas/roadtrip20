@@ -1,0 +1,679 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="WordPress 2.2.1" /> <!-- leave this for stats -->
+	<link rel="stylesheet" href="../blog/wp-content/themes/notso_freshe/style.css" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="Road Trip 2.0 RSS 2.0" href="../feed" />
+	<link rel="alternate" type="application/atom+xml" title="Road Trip 2.0 Atom 0.3" href="../feed/atom" />
+	<link rel="pingback" href="../blog/xmlrpc.php" />
+	<title>Road Trip 2.0  &raquo; Uncategorized</title>
+	<link rel="shortcut icon" href="../blog/wp-content/themes/notso_freshe/images/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="../blog/wp-content/themes/notso_freshe/images/favicon.ico" type="image/x-icon" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../blog/xmlrpc.php?rsd" />
+<script type='text/javascript' src='../blog/wp-content/plugins/vipers-video-quicktags/vipers-video-quicktags.js?ver=5.1.4'></script>
+<script type='text/javascript' src='../blog/wp-includes/js/prototype.js?ver=1.5.0-0'></script>
+<script type='text/javascript' src='../blog/wp-includes/js/scriptaculous/wp-scriptaculous.js?ver=1.7.0'></script>
+<script type='text/javascript' src='../blog/wp-includes/js/scriptaculous/effects.js?ver=1.7.0'></script>
+
+<script type="text/javascript" src="../blog/wp-content/plugins/PagedThreadedComments/thread-event.js"></script>
+<link rel="stylesheet" href="../blog/wp-content/plugins/PagedThreadedComments/thread-style.css" type="text/css" media="screen" />
+
+<style type="text/css">
+.comment .collapseicon 
+{
+	width: 					13px;
+	height: 				13px;
+	overflow:				hidden;
+	background-image: 		url(../blog/wp-content/plugins/PagedThreadedComments/images/subthread-open.gif);
+}
+
+.collapsed .collapseicon 
+{
+	background-image: 		url(../blog/wp-content/plugins/PagedThreadedComments/images/subthread.gif);
+}
+</style>
+
+<script language="javascript1.4" type="text/javascript" src="../blog/wp-content/plugins/audio-player/audio-player.js"></script>
+
+	<!-- Added By Democracy Plugin. Version 2.0.1 -->
+	<script type='text/javascript' src='../blog/wp-content/plugins/democracy/democracy.js'></script>
+	<link rel='stylesheet' href='../blog/wp-content/plugins/democracy/basic.css' type='text/css' />
+	<link rel='stylesheet' href='../blog/wp-content/plugins/democracy/style.css' type='text/css' />
+	<!-- Quicktime hacks for Viper's Video Quicktags plugin -->
+	<style type="text/css">
+		.vvqbox {
+			margin: 5px auto 0 auto;
+			text-align: center;
+		}
+
+		/* hides the second object from all versions of IE */
+		* html object.mov {
+			display: none;
+		}
+
+		/* displays the second object in all versions of IE apart from 5 on PC */
+		* html object.mov/**/ {
+			display: inline;
+		}
+
+		/* hides the second object from all versions of IE >= 5.5 */
+		* html object.mov {
+			display/**/: none;
+		}
+	</style>
+	<!-- WP lightbox 2 Plugin version 0.6.3 -->
+	<link rel="stylesheet" href="../blog/wp-content/plugins/wp-lightbox2/css/lightbox.css" type="text/css" media="screen" />
+	<style type="text/css" media="screen">
+		#prevLink, #nextLink { background: transparent url("../blog/wp-content/plugins/wp-lightbox2/images/blank.gif") no-repeat; }
+		#prevLink:hover, #prevLink:visited:hover { background: url("../blog/wp-content/plugins/wp-lightbox2/images/prevlabel.gif") left 15% no-repeat; }
+		#nextLink:hover, #nextLink:visited:hover { background: url("../blog/wp-content/plugins/wp-lightbox2/images/nextlabel.gif") right 15% no-repeat; }
+	</style>
+	<script type="text/javascript" src="../blog/wp-content/plugins/wp-lightbox2/js/lightbox.js"></script>
+	<script type="text/javascript">
+		var fileLoadingImage = "http://www.roadtrip20.com/blog/wp-content/plugins/wp-lightbox2/images/loading.gif";
+		var fileBottomNavCloseImage = "http://www.roadtrip20.com/blog/wp-content/plugins/wp-lightbox2/images/closelabel.gif";
+	</script>
+</head>
+
+<body>
+
+<div id="outline">
+
+	<div id="header">
+		<div class="blogtitle">
+			<h1><a href="../index.html" title="Road Trip 2.0"></a></h1>
+		</div>
+	</div> <!-- end of #header -->
+
+	<div id="navbar">
+		<ul class="menu">
+			<li class="page_item"><a href="../index.html">Home</a></li>
+			<li class="page_item"><a href="../about" title="The Story">The Story</a></li>
+<li class="page_item"><a href="../itinerary" title="The Itinerary">The Itinerary</a></li>
+<li class="page_item"><a href="../budget" title="The Budget">The Budget</a></li>
+<li class="page_item"><a href="../the-entrepreneurs" title="The Entrepreneurs">The Entrepreneurs</a></li>
+<li class="page_item"><a href="../participate" title="Participate!">Participate!</a></li>
+					</ul>
+
+		<div class="searchbar">
+			<form method="get" id="searchform" action="../index.html">
+	<div>
+	<input type="text" value="" name="s" id="s" />
+	</div>
+</form>
+		</div>
+	</div> <!-- end of #navbar -->
+
+
+<div id="wrapper">
+
+<div id="content">
+	
+				
+				<div class="page-title">
+			<h2 class="page-title-border">Archive for Uncategorized</h2>
+		</div>
+ 	  	
+		
+					
+			<div class="post" id="post-152">
+	
+				<h2 class="posttitle">
+					<a href="../2008_01_15-other-brave-souls.html/trackback" rel="bookmark" title="Permalink to Other Brave Souls">Other Brave Souls</a>
+				</h2>
+			
+				<p class="postmeta"> 
+
+					Written by Alexi on
+
+					<span class="post-date">15 Jan, 2008</span>&nbsp;
+					<span class="post-comment"><a href="../2008_01_15-other-brave-souls.html/trackback#respond" class="commentslink" title="Comment on Other Brave Souls">No Comment</a></span>
+									</p>
+			
+				<div class="postentry">
+									<p>We thought driving around in a 25 year old van was bad enough.  These guys decided to use a Segway!  Kudos to the <u>10 MPH</u> team.</p>
+<div id="vvq4fa482bd52f7e" class="vvqbox vvqyoutube" style="width:425px;height:335px;">
+<p><a href="http://www.youtube.com/watch?v=DdR41fe9Zeg">http://www.youtube.com/watch?v=DdR41fe9Zeg</a></p>
+</div>
+<p class="akpc_pop">Popularity: 89% <span class="akpc_help">[<a href="http://alexking.org/projects/wordpress/popularity-contest" title="What does this mean?">?</a>]</span></p>
+<script type="text/javascript">
+<!--
+	vvq_youtube("vvq4fa482bd52f7e", "425", "335", "DdR41fe9Zeg");
+-->
+</script>
+								</div>
+				
+				<!--
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.roadtrip20.com/2008_01_15-other-brave-souls.html"
+    dc:identifier="http://www.roadtrip20.com/2008_01_15-other-brave-souls.html"
+    dc:title="Other Brave Souls"
+    trackback:ping="http://www.roadtrip20.com/2008_01_15-other-brave-souls.html/trackback" />
+</rdf:RDF>				-->
+			
+			</div>
+				
+					
+			<div class="post" id="post-137">
+	
+				<h2 class="posttitle">
+					<a href="../2007_11_02-la-breakdown.html/trackback" rel="bookmark" title="Permalink to LA Breakdown">LA Breakdown</a>
+				</h2>
+			
+				<p class="postmeta"> 
+
+					Written by Alexi on
+
+					<span class="post-date">2 Nov, 2007</span>&nbsp;
+					<span class="post-comment"><a href="../2007_11_02-la-breakdown.html/trackback#comments" class="commentslink" title="Comment on LA Breakdown">2 Comments</a></span>
+									</p>
+			
+				<div class="postentry">
+									<p><a href="http://www.flickr.com/photos/roadtrip20/1833600753/" target="_blank"><img src="http://farm3.static.flickr.com/2010/1833600753_87ee9f4b00_t_d.jpg" title="Van-damage" alt="Van-damage" align="right" height="75" width="100" /></a>When you hear anything even slightly out of the ordinary come from the engine of a 20 year old van, it elicits a special kind of fear. I think it&#8217;s rooted in how little we know about the magical machine that gets us from Point A to Point B, and how badly we can get screwed out of our money by those that can fix it. We got reminded of all this yesterday on the drive from San Francisco when the engine started to lose power and make a wonderful grinding noise. We pulled over and popped the hood open just in time to catch the last of the radiator fluid bubble over on to the highway.</p>
+<p>Luckily I&#8217;ve had the honor of overheating my Eclipse back in college, so I had some idea how to proceed. We let things cool down and topped off the radiator with our drinking water and made it in to LA without further incident. Unless of course dropping $300 on a radiator check &amp; break job counts as an incident.</p>
+<p>Due to the problems, we decided to skip out on San Diego and hang out in LA until Monday. The idea is that we&#8217;ll be scoping out potential future digs for when Ben sells his house (which, by the way, if you want to buy, you can do so <a href="http://tri4sale.info/house.html" target="_blank">here</a>.)</p>
+<p class="akpc_pop">Popularity: 18% <span class="akpc_help">[<a href="http://alexking.org/projects/wordpress/popularity-contest" title="What does this mean?">?</a>]</span></p>								</div>
+				
+				<!--
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.roadtrip20.com/2007_11_02-la-breakdown.html"
+    dc:identifier="http://www.roadtrip20.com/2007_11_02-la-breakdown.html"
+    dc:title="LA Breakdown"
+    trackback:ping="http://www.roadtrip20.com/2007_11_02-la-breakdown.html/trackback" />
+</rdf:RDF>				-->
+			
+			</div>
+				
+					
+			<div class="post" id="post-134">
+	
+				<h2 class="posttitle">
+					<a href="../2007_10_29-highway-1.html/trackback" rel="bookmark" title="Permalink to Highway 1">Highway 1</a>
+				</h2>
+			
+				<p class="postmeta"> 
+
+					Written by Alexi on
+
+					<span class="post-date">29 Oct, 2007</span>&nbsp;
+					<span class="post-comment"><a href="../2007_10_29-highway-1.html/trackback#comments" class="commentslink" title="Comment on Highway 1">2 Comments</a></span>
+									</p>
+			
+				<div class="postentry">
+									<p>Well, we survived the drive down Highway 1, but just barely. We decided to take Hwy 5 to save on time and then cut over to Hwy 1 taking <a href="http://maps.google.com/maps?f=d&amp;hl=en&amp;geocode=&amp;time=&amp;date=&amp;ttype=&amp;saddr=seattle,+wa&amp;daddr=42.57331,-124.043884+to:crescent+city,+ca&amp;mra=dpe&amp;mrcr=0,1&amp;mrsp=1&amp;sz=9&amp;sll=42.37072,-123.999939&amp;sspn=0.850209,1.672668&amp;ie=UTF8&amp;ll=42.271212,-123.997192&amp;spn=0.851555,1.672668&amp;z=9&amp;om=1" target="_blank">this route</a> near southern Oregon. Again, we learn a valuable lesson here. When Google Maps says that 35 miles of the roads we&#8217;re taking &#8220;may be seasonally closed,&#8221; it&#8217;s probably a good indicator that they&#8217;re not fit for a 20 year old RV. Luckily we were in good spirits, because it made the one lane roads, gravel paths, and <a href="http://www.flickr.com/photos/roadtrip20/1800001122/" target="_blank">mysterious tree with shoes hung all over it</a> <em>hilarious</em>. The last one really made no sense at all, because there were no signs of anyone living anywhere around there, and they were kids shoes.</p>
+<p>We Walmarted it that night in northern California. The second half of the drive was much more scenic, with the Redwood National Forest and Pacific Ocean constantly to the right. Again, tons of pictures after the jump. We got into Oakland late last night, found our beloved retail giant, and got a good night&#8217;s rest for today: our first day in San Francisco.</p>
+<p> <a href="../2007_10_29-highway-1.html/trackback#more-134" class="more-link">Read the rest of this entry &raquo;</a></p>
+<p class="akpc_pop">Popularity: 22% <span class="akpc_help">[<a href="http://alexking.org/projects/wordpress/popularity-contest" title="What does this mean?">?</a>]</span></p>								</div>
+				
+				<!--
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.roadtrip20.com/2007_10_29-highway-1.html"
+    dc:identifier="http://www.roadtrip20.com/2007_10_29-highway-1.html"
+    dc:title="Highway 1"
+    trackback:ping="http://www.roadtrip20.com/2007_10_29-highway-1.html/trackback" />
+</rdf:RDF>				-->
+			
+			</div>
+				
+					
+			<div class="post" id="post-109">
+	
+				<h2 class="posttitle">
+					<a href="../2007_10_04-hello-canada.html/trackback" rel="bookmark" title="Permalink to Hello, Canada!">Hello, Canada!</a>
+				</h2>
+			
+				<p class="postmeta"> 
+
+					Written by Alexi on
+
+					<span class="post-date">4 Oct, 2007</span>&nbsp;
+					<span class="post-comment"><a href="../2007_10_04-hello-canada.html/trackback#comments" class="commentslink" title="Comment on Hello, Canada!">4 Comments</a></span>
+									</p>
+			
+				<div class="postentry">
+									<p>We&#8217;re in Canada! This is my first time to grace the country with my presence. Ben has visited Montreal once a while back, but it&#8217;ll probably be a new experience for the both of us. The plan is to camp out for 2 nights at a Walmart located on the southern end of the city. It has a Metro station across the street which, for $18, will let us access the entire city easily. The three big things on my radar are:</p>
+<p>-<strong>Old Montreal &amp; Port</strong>. Listed in all the guide books &amp; resources I&#8217;ve seen, it&#8217;s got a lot of history, shops, and cafes.<br />
+-The &#8220;<strong>Underground City</strong>&#8221; is a bunch of underground shops, businesses, &amp; malls that connect off the Metro.<br />
+-The old <strong>Olympic Park</strong> has an indoor pool that we can use ($4) for exercise &amp; to catch a shower. It has the added benefit of being an environment worthy of our physical prowess.</p>
+<p>If you have any recommendations let us know!</p>
+<p class="akpc_pop">Popularity: 15% <span class="akpc_help">[<a href="http://alexking.org/projects/wordpress/popularity-contest" title="What does this mean?">?</a>]</span></p>								</div>
+				
+				<!--
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.roadtrip20.com/2007_10_04-hello-canada.html"
+    dc:identifier="http://www.roadtrip20.com/2007_10_04-hello-canada.html"
+    dc:title="Hello, Canada!"
+    trackback:ping="http://www.roadtrip20.com/2007_10_04-hello-canada.html/trackback" />
+</rdf:RDF>				-->
+			
+			</div>
+				
+					
+			<div class="post" id="post-105">
+	
+				<h2 class="posttitle">
+					<a href="../2007_10_03-let-them-eat-steak.html/trackback" rel="bookmark" title="Permalink to &#8220;Let them Eat Steak&#8221;">&#8220;Let them Eat Steak&#8221;</a>
+				</h2>
+			
+				<p class="postmeta"> 
+
+					Written by Alexi on
+
+					<span class="post-date">3 Oct, 2007</span>&nbsp;
+					<span class="post-comment"><a href="../2007_10_03-let-them-eat-steak.html/trackback#comments" class="commentslink" title="Comment on &#8220;Let them Eat Steak&#8221;">4 Comments</a></span>
+									</p>
+			
+				<div class="postentry">
+									<p>Did you know that you can get 2lbs. of &#8220;Round Steak,&#8221; whatever that is, for about $3? We found that out last night when we drove into town (<a href="http://www.flickr.com/photos/roadtrip20/1472906701/" title="Milton, VT" target="_blank">Milton, VT</a>) to do some grocery shopping. Pound-for-pound, that&#8217;s gotta even give tuna a run for it&#8217;s money, and certainly is tastier. Ben busted out his camping grill and cooked up a 1/2lb for each of us along with some greens:</p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/roadtrip20/1474079875/in/photostream/" target="_blank"><img src="http://farm2.static.flickr.com/1051/1474079875_22f550e88e_m_d.jpg" title="steak dinner" alt="steak dinner" /></a></p>
+<p> What a pleasant little meal. But it&#8217;s fairly 1.0 for our 2.turbo-charged road trip. I knew from intuition, and past experience, that putting un-ground meat on bread is <em>delightful</em>. Ben took only a little convincing, and then he was sold.</p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/roadtrip20/1474079881/in/photostream/" target="_blank"><img src="http://farm2.static.flickr.com/1035/1474079881_c9a1f23bc8_m_d.jpg" title="steak sandwich" alt="steak sandwich" height="180" width="240" /></a></p>
+<p>Behold, the <strong>Steak Sandwich</strong>. Brought to you by Road Trip 2.0.</p>
+<p class="akpc_pop">Popularity: 14% <span class="akpc_help">[<a href="http://alexking.org/projects/wordpress/popularity-contest" title="What does this mean?">?</a>]</span></p>								</div>
+				
+				<!--
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.roadtrip20.com/2007_10_03-let-them-eat-steak.html"
+    dc:identifier="http://www.roadtrip20.com/2007_10_03-let-them-eat-steak.html"
+    dc:title="&#8220;Let them Eat Steak&#8221;"
+    trackback:ping="http://www.roadtrip20.com/2007_10_03-let-them-eat-steak.html/trackback" />
+</rdf:RDF>				-->
+			
+			</div>
+				
+					
+			<div class="post" id="post-98">
+	
+				<h2 class="posttitle">
+					<a href="../2007_09_28-htboti-get-famous.html/trackback" rel="bookmark" title="Permalink to HTBOTI - Get Famous.">HTBOTI - Get Famous.</a>
+				</h2>
+			
+				<p class="postmeta"> 
+
+					Written by Alexi on
+
+					<span class="post-date">28 Sep, 2007</span>&nbsp;
+					<span class="post-comment"><a href="../2007_09_28-htboti-get-famous.html/trackback#comments" class="commentslink" title="Comment on HTBOTI - Get Famous.">4 Comments</a></span>
+									</p>
+			
+				<div class="postentry">
+									<p>Honk To Be On The Internet, if you didn’t already suspect. Being on the road for only 6 short hours, it has already proven to be a hit with the locals of NYC and Connecticut! Check out how to become <a href="../participate/internet-famous">Internet Famous</a>, and our other <a href="../participate">Participate!</a> items to quench your boredom.</p>
+<p class="akpc_pop">Popularity: 21% <span class="akpc_help">[<a href="http://alexking.org/projects/wordpress/popularity-contest" title="What does this mean?">?</a>]</span></p>								</div>
+				
+				<!--
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.roadtrip20.com/2007_09_28-htboti-get-famous.html"
+    dc:identifier="http://www.roadtrip20.com/2007_09_28-htboti-get-famous.html"
+    dc:title="HTBOTI - Get Famous."
+    trackback:ping="http://www.roadtrip20.com/2007_09_28-htboti-get-famous.html/trackback" />
+</rdf:RDF>				-->
+			
+			</div>
+				
+					
+			<div class="post" id="post-94">
+	
+				<h2 class="posttitle">
+					<a href="../2007_09_27-van-tracking.html/trackback" rel="bookmark" title="Permalink to Van Tracking">Van Tracking</a>
+				</h2>
+			
+				<p class="postmeta"> 
+
+					Written by Alexi on
+
+					<span class="post-date">27 Sep, 2007</span>&nbsp;
+					<span class="post-comment"><a href="../2007_09_27-van-tracking.html/trackback#comments" class="commentslink" title="Comment on Van Tracking">7 Comments</a></span>
+									</p>
+			
+				<div class="postentry">
+									<p>The van&#8217;s actual position is now marked in close-to-real-time on the <a href="../itinerary">Itinerary</a> map.  It could come in handy in case you want to dispatch a couple of <a href="http://www.omahasteaks.com/servlet/browse/1/Premium-Beef/Private-Reserve?Dsp=4&amp;PID=Private-Reserve-Filet-Mignon&amp;RAND=25CL7308" target="_blank">Omaha Steaks</a> to save us from yet another tuna-based meal <img src='../blog/wp-includes/images/smilies/icon_wink.gif' alt=';-)' class='wp-smiley' /> </p>
+<p>We also finally got the &#8220;<a href="../participate/internet-famous">Honk to be on the Internet</a>&#8221; sticker up on the back. Given that people have already been honking at us (our van is sloooow,) it should add an interesting dynamic when we start to snap their pictures.</p>
+<p class="akpc_pop">Popularity: 17% <span class="akpc_help">[<a href="http://alexking.org/projects/wordpress/popularity-contest" title="What does this mean?">?</a>]</span></p>								</div>
+				
+				<!--
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.roadtrip20.com/2007_09_27-van-tracking.html"
+    dc:identifier="http://www.roadtrip20.com/2007_09_27-van-tracking.html"
+    dc:title="Van Tracking"
+    trackback:ping="http://www.roadtrip20.com/2007_09_27-van-tracking.html/trackback" />
+</rdf:RDF>				-->
+			
+			</div>
+				
+					
+			<div class="post" id="post-61">
+	
+				<h2 class="posttitle">
+					<a href="../2007_09_26-philly-cheesesteaks-go-down-smooooooth.html/trackback" rel="bookmark" title="Permalink to Philly Cheesesteaks Go Down Smooooooth.">Philly Cheesesteaks Go Down Smooooooth.</a>
+				</h2>
+			
+				<p class="postmeta"> 
+
+					Written by Alexi on
+
+					<span class="post-date">26 Sep, 2007</span>&nbsp;
+					<span class="post-comment"><a href="../2007_09_26-philly-cheesesteaks-go-down-smooooooth.html/trackback#comments" class="commentslink" title="Comment on Philly Cheesesteaks Go Down Smooooooth.">1 Comment</a></span>
+									</p>
+			
+				<div class="postentry">
+									<p>Ever wonder what all the hype is about Philly Cheesesteaks?  I sacrificed $7 of my hard earned cash, and precious stomach real estate, so that the world can decide if it&#8217;s worth the pilgrimage to Mecca.</p>
+<p>Bon appetit!</p>
+<div id="vvq4fa482bd64b38" class="vvqbox vvqyoutube" style="width:425px;height:335px;">
+<p><a href="http://www.youtube.com/watch?v=s3pfi2F-A8Y">http://www.youtube.com/watch?v=s3pfi2F-A8Y</a></p>
+</div>
+<p class="akpc_pop">Popularity: 16% <span class="akpc_help">[<a href="http://alexking.org/projects/wordpress/popularity-contest" title="What does this mean?">?</a>]</span></p>
+<script type="text/javascript">
+<!--
+	vvq_youtube("vvq4fa482bd64b38", "425", "335", "s3pfi2F-A8Y");
+-->
+</script>
+								</div>
+				
+				<!--
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.roadtrip20.com/2007_09_26-philly-cheesesteaks-go-down-smooooooth.html"
+    dc:identifier="http://www.roadtrip20.com/2007_09_26-philly-cheesesteaks-go-down-smooooooth.html"
+    dc:title="Philly Cheesesteaks Go Down Smooooooth."
+    trackback:ping="http://www.roadtrip20.com/2007_09_26-philly-cheesesteaks-go-down-smooooooth.html/trackback" />
+</rdf:RDF>				-->
+			
+			</div>
+				
+					
+			<div class="post" id="post-60">
+	
+				<h2 class="posttitle">
+					<a href="../2007_09_26-rfc-boston.html/trackback" rel="bookmark" title="Permalink to RFC Boston">RFC Boston</a>
+				</h2>
+			
+				<p class="postmeta"> 
+
+					Written by Alexi on
+
+					<span class="post-date">26 Sep, 2007</span>&nbsp;
+					<span class="post-comment"><a href="../2007_09_26-rfc-boston.html/trackback#comments" class="commentslink" title="Comment on RFC Boston">6 Comments</a></span>
+									</p>
+			
+				<div class="postentry">
+									<p>Boston, Massachusetts is the next lucky city to be blessed with RT2.0&#8217;s presence, we&#8217;ll be arriving in the afternoon on Thursday. To help brainstorm things to do, places to eat, etc, check out our <a href="../itinerary/boston-ma">Boston page</a> (also linked off the <a href="../itinerary">Itinerary</a>) and see if you have anything to add.  If you&#8217;re in the area and want to meet up, hit us up!</p>
+<p class="akpc_pop">Popularity: 17% <span class="akpc_help">[<a href="http://alexking.org/projects/wordpress/popularity-contest" title="What does this mean?">?</a>]</span></p>								</div>
+				
+				<!--
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.roadtrip20.com/2007_09_26-rfc-boston.html"
+    dc:identifier="http://www.roadtrip20.com/2007_09_26-rfc-boston.html"
+    dc:title="RFC Boston"
+    trackback:ping="http://www.roadtrip20.com/2007_09_26-rfc-boston.html/trackback" />
+</rdf:RDF>				-->
+			
+			</div>
+				
+					
+			<div class="post" id="post-5">
+	
+				<h2 class="posttitle">
+					<a href="../2007_07_24-hi.html/trackback" rel="bookmark" title="Permalink to Hi">Hi</a>
+				</h2>
+			
+				<p class="postmeta"> 
+
+					Written by Alexi on
+
+					<span class="post-date">24 Jul, 2007</span>&nbsp;
+					<span class="post-comment"><a href="../2007_07_24-hi.html/trackback#comments" class="commentslink" title="Comment on Hi">1 Comment</a></span>
+									</p>
+			
+				<div class="postentry">
+									<p>Hi,</p>
+<p>My friend Ben convinced me to sell my house and move across country.  Now since I&#8217;m homeless and he can&#8217;t sell his place, he convinced me to go on a road trip around US, Canada, and select parts of Mexico!  Ahhh, friends. <img src='../blog/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </p>
+<p>Alexi</p>
+<p class="akpc_pop">Popularity: 18% <span class="akpc_help">[<a href="http://alexking.org/projects/wordpress/popularity-contest" title="What does this mean?">?</a>]</span></p>								</div>
+				
+				<!--
+				<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+			<rdf:Description rdf:about="http://www.roadtrip20.com/2007_07_24-hi.html"
+    dc:identifier="http://www.roadtrip20.com/2007_07_24-hi.html"
+    dc:title="Hi"
+    trackback:ping="http://www.roadtrip20.com/2007_07_24-hi.html/trackback" />
+</rdf:RDF>				-->
+			
+			</div>
+				
+		
+		<div class="pages">
+			<div class="pages-border"></div>
+			<span class="page-previous"><a href="http://www.roadtrip20.com/category/uncategorized/page/2">&laquo; Older Entries</a></span>
+			<span class="page-next"><a href="http://www.roadtrip20.com/category/uncategorized/page/2"></a></span>
+		</div>
+
+	
+
+</div> <!-- end of #content -->
+<div id="sidebar">
+
+	
+		<div class="rssfeeds">
+		<h2 class="feed-title">Live in the Know!</h2>
+		<p>
+			<a class="rss" href="http://feeds.feedburner.com/RoadTrip20" target="_blank">Subscribe to the RSS Feed</a><br/>
+			<a class="myspace" href="http://collect.myspace.com/index.cfm?fuseaction=invite.addfriend_verify&friendID=219764644" onMouseUp="urchinTracker('sidebar/myspace')" target="_blank">Be a MySpace friend</a><br/>
+			<a class="facebook" href="http://www.facebook.com/addfriend.php?id=717319407" onMouseUp="urchinTracker('sidebar/facebook')" target="_blank">Be a FaceBook friend</a><br/>
+			<a class="flickr" href="http://www.flickr.com/people/roadtrip20/relationship/" onMouseUp="urchinTracker('sidebar/flickr')" target="_blank">Be a Flickr contact</a><br/>
+		</p>
+	</div>
+
+
+<ul>	
+
+		<li id="text-1" class="widget widget_text">			<h2 class="widgettitle">What the...</h2>
+			<div class="textwidget">That's a very good question.  Basically, we're just a couple of single, 20-something guys who run their own online businesses and are pushing the limits of the mobile lifestyle.  Hopefully, our example will inspire you to get out of your cube and do the same. [<a href="../the-entrepreneurs/ben-the-crazy-guy" onMouseUp="urchinTracker('sidebar/more-ben');">More Ben</a>] [<a href="../the-entrepreneurs/alexi-the-voice-of-reason" onMouseUp="urchinTracker('sidebar/more-alexi');">More Alexi</a>]</div>
+		</li>
+		<li id="text-3" class="widget widget_text">			<h2 class="widgettitle">Twitterpatin'</h2>
+			<div class="textwidget"><div id="twitter_div">
+<ul id="twitter_update_list"></ul></div>
+<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+<script text="text/javascript" src="http://twitter.com/statuses/user_timeline/RoadTrip20.json?callback=twitterCallback2&count=5"></script></div>
+		</li>
+<li id="buy-me-a-beer" class="widget Array"><h2 class="widgettitle">Buy Us a Delicious Beverage?</h2>
+		<form name="buymebeer" action="https://www.paypal.com/cgi-bin/webscr" target="paypal" method="post">
+		<input type="hidden" name="cmd" value="_xclick" />
+		<input type="hidden" name="business" value="payments@tripstays.com" />
+		<input type="hidden" name="return" value="" />
+		<input type="hidden" name="item_name" value="Buy Us a Delicious Beverage?" />
+		<input type="hidden" name="currency_code" value="" />
+		<input type="hidden" name="amount" value="" />
+		<input type="image" src="../blog/wp-content/plugins/buy-me-beer/beer.gif" align="left" alt="Buy us a beer" title="Buy us a beer" />		
+		<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;business=payments@tripstays.com&amp;currency_code=USD&amp;amount=&amp;return=&amp;item_name=Buy+Us+a+Delicious+Beverage?" target="paypal" onMouseUp="urchinTracker('sidebar/buy-a-beer');">We get parched.
+(Click Here)</a>		</form>
+		<div style="clear: both;"></div><br />
+		</li>
+		<li id="flickrrss" class="widget widget_flickrrss"><h2 class="widgettitle">Scenes from the Road</h2>
+<a href="http://www.flickr.com/photos/roadtrip20/2116218195/" title="Holiday Card"><img src="http://farm3.staticflickr.com/2082/2116218195_f58198d655_s.jpg" alt="Holiday Card" border=0 /></a>&nbsp;<a href="http://www.flickr.com/photos/roadtrip20/2111188322/" title="RoadTrip20.com 404 Error"><img src="http://farm3.staticflickr.com/2197/2111188322_d0687abd45_s.jpg" alt="RoadTrip20.com 404 Error" border=0 /></a>&nbsp;<a href="http://www.flickr.com/photos/roadtrip20/2105926730/" title="Fort Lauderdale Beach"><img src="http://farm3.staticflickr.com/2395/2105926730_5a703c0d06_s.jpg" alt="Fort Lauderdale Beach" border=0 /></a>&nbsp;<a href="http://www.flickr.com/photos/roadtrip20/2105149407/" title="Miami Virtue"><img src="http://farm3.staticflickr.com/2013/2105149407_a593881c27_s.jpg" alt="Miami Virtue" border=0 /></a>&nbsp;<a href="http://www.flickr.com/photos/roadtrip20/2105149293/" title="Ben Loves the Ocean"><img src="http://farm3.staticflickr.com/2076/2105149293_d6d5970a50_s.jpg" alt="Ben Loves the Ocean" border=0 /></a>&nbsp;<a href="http://www.flickr.com/photos/roadtrip20/2105149185/" title="HtbotI: Miami Florida"><img src="http://farm3.staticflickr.com/2266/2105149185_8be206f78a_s.jpg" alt="HtbotI: Miami Florida" border=0 /></a>&nbsp;</li>
+		<li id="daikos-video-widget-1" class="widget widget_videos">		<div class='DaikosVideos'><!-- Daiko's Video Widget is disabled for this page/post! --></div>			</li>
+	
+					<li id="text-2" class="widget widget_text">			<h2 class="widgettitle">What We're Listening To</h2>
+			<div class="textwidget"><style type="text/css">
+table.lfmWidget4a0c257a75c0fef5164e640db6d741fc td {margin:0 !important;padding:0 !important;border:0 !important;}table.lfmWidget4a0c257a75c0fef5164e640db6d741fc tr.lfmHead a:hover {background:url(http://cdn.last.fm/widgets/images/en/header/quilt/album_vertical_white.png) no-repeat 0 0 !important;}table.lfmWidget4a0c257a75c0fef5164e640db6d741fc tr.lfmEmbed object {float:left;}table.lfmWidget4a0c257a75c0fef5164e640db6d741fc tr.lfmFoot td.lfmConfig a:hover {background:url(http://cdn.last.fm/widgets/images/en/footer/white.png) no-repeat 0px 0 !important;;}table.lfmWidget4a0c257a75c0fef5164e640db6d741fc tr.lfmFoot td.lfmView a:hover {background:url(http://cdn.last.fm/widgets/images/en/footer/white.png) no-repeat -85px 0 !important;}table.lfmWidget4a0c257a75c0fef5164e640db6d741fc tr.lfmFoot td.lfmPopup a:hover {background:url(http://cdn.last.fm/widgets/images/en/footer/white.png) no-repeat -159px 0 !important;}</style>
+<table class="lfmWidget4a0c257a75c0fef5164e640db6d741fc" cellpadding="0" cellspacing="0" border="0" style="width:184px;" align="center"><tr class="lfmHead"><td><a title="Top albums" href="http://www.last.fm/user/RoadTrip20/charts/" target="_blank" style="display:block;overflow:hidden;height:20px;width:184px;background:url(http://cdn.last.fm/widgets/images/en/header/quilt/album_vertical_white.png) no-repeat 0 -20px;text-decoration:none;"></a></td></tr><tr class="lfmEmbed"><td><object width="184" height="270" style="float:left;" data="http://cdn.last.fm/widgets/quilt/11.swf" type="application/x-shockwave-flash" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0"> <param name="movie" value="http://cdn.last.fm/widgets/quilt/11.swf" /> <param name="flashvars" value="type=user&amp;variable=RoadTrip20&amp;file=topalbums&amp;bgColor=white&amp;theme=blue&amp;lang=en&amp;widget_id=4a0c257a75c0fef5164e640db6d741fc" /> <param name="bgcolor" value="#ffffff" /> <param name="quality" value="high" /> <param name="allowScriptAccess" value="sameDomain" /> <param name="allowNetworking" value="all" /> <embed src="http://cdn.last.fm/widgets/quilt/11.swf" flashvars="type=user&amp;variable=RoadTrip20&amp;file=topalbums&amp;bgColor=white&amp;theme=blue&amp;lang=en&amp;widget_id=4a0c257a75c0fef5164e640db6d741fc" bgcolor="#ffffff" width="184" height="270" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" allowScriptAccess="sameDomain" allowNetworking="all"> </embed> </object></td></tr><tr class="lfmFoot"><td style="background:url(http://cdn.last.fm/widgets/images/footer_bg/white.png) repeat-x 0 0;text-align:right;"><table cellspacing="0" cellpadding="0" border="0" style="width:184px;"><tr><td class="lfmConfig"><a href="http://www.last.fm/widgets/?url=user%2FRoadTrip20%2Fpersonal&amp;colour=blue&amp;quiltType=album&amp;orient=vertical&amp;height=small&amp;from=code&amp;widget=quilt" title="Get your own widget" target="_blank" style="display:block;overflow:hidden;width:85px;height:20px;float:right;background:url(http://cdn.last.fm/widgets/images/en/footer/white.png) no-repeat 0px -20px;text-decoration:none;"></a></td><td class="lfmView" style="width:74px;"><a href="http://www.last.fm/user/RoadTrip20/" title="View RoadTrip20's profile" target="_blank" style="display:block;overflow:hidden;width:74px;height:20px;background:url(http://cdn.last.fm/widgets/images/en/footer/white.png) no-repeat -85px -20px;text-decoration:none;"></a></td><td class="lfmPopup"style="width:25px;"><a href="http://www.last.fm/widgets/popup/?url=user%2FRoadTrip20%2Fpersonal&amp;colour=blue&amp;quiltType=album&amp;orient=vertical&amp;height=small&amp;from=code&amp;widget=quilt&amp;resize=1" title="Load this quilt in a pop up" target="_blank" style="display:block;overflow:hidden;width:25px;height:20px;background:url(http://cdn.last.fm/widgets/images/en/footer/white.png) no-repeat -159px -20px;text-decoration:none;" onclick="window.open(this.href + '&amp;resize=0','lfm_popup','height=370,width=234,resizable=yes,scrollbars=yes'); return false;"></a></td></tr></table></td></tr></table>
+</div>
+		</li>
+<li id="popularity-contest" class="widget popularity_widget"><h2 class="widgettitle">Most Popular Posts</h2>
+<!-- Start popularityWidget -->
+ <li><!--<h2>Most Popular Posts</h2> -->
+   <ul>
+   <li><a href="../2007_12_08-fayetteville-arkansas.html/trackback">Fayetteville, Arkansas</a></li><li><a href="../2007_12_03-austin-tx-i-love-you.html/trackback">Austin, TX - I Love You</a></li><li><a href="../2007_12_03-road-trip-20-brings-the-christmas-cheer.html/trackback">Road Trip 2.0 Brings the Christmas Cheer</a></li><li><a href="../2007_11_18-public-wifi.html/trackback">Public WiFi</a></li><li><a href="../2007_12_16-the-sun-sets-on-road-trip-20.html/trackback">The Sun Sets on Road Trip 2.0</a></li><li><a href="../2007_12_07-the-worlds-greatest-burrito.html/trackback">The World's Greatest Burrito</a></li><li><a href="../2007_12_10-miami-beach-is-the-bomb.html/trackback">Miami Beach is the Bomb</a></li><li><a href="../2008_01_15-other-brave-souls.html/trackback">Other Brave Souls</a></li><li><a href="../2007_12_16-happy-holidays.html/trackback">Happy Holidays!</a></li><li><a href="../2007_12_14-were-back-baby.html/trackback">We're Back, Baby</a></li>   </ul>
+  </li>
+<!-- End popularityWidget -->
+</li>
+<li id="categories" class="widget widget_categories"><h2 class="widgettitle">Categories</h2>
+		<ul>
+			<li><a href="business" title="View all posts filed under Business">Business</a>
+</li>
+	<li><a href="city-recaps" title="View all posts filed under City Recaps">City Recaps</a>
+</li>
+	<li><a href="development" title="Posts about developing RoadTrip2.0">Development</a>
+</li>
+	<li><a href="insights" title="View all posts filed under Insights">Insights</a>
+</li>
+	<li><a href="interesting-events" title="View all posts filed under Interesting Events">Interesting Events</a>
+</li>
+	<li><a href="lessons-learned" title="View all posts filed under Lessons Learned">Lessons Learned</a>
+</li>
+	<li><a href="lifecation" title="View all posts filed under Lifecation">Lifecation</a>
+</li>
+	<li><a href="mobile-lifestyle" title="View all posts filed under Mobile Lifestyle">Mobile Lifestyle</a>
+</li>
+	<li><a href="pictures" title="View all posts filed under Pictures">Pictures</a>
+</li>
+	<li><a href="preparations" title="View all posts filed under Preparations">Preparations</a>
+</li>
+	<li><a href="social-media-marketing" title="View all posts filed under Social Media Marketing">Social Media Marketing</a>
+</li>
+	<li><a href="the-van" title="View all posts filed under The Van">The Van</a>
+</li>
+	<li class="current-cat"><a href="uncategorized" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+	<li><a href="videos" title="View all posts filed under Videos">Videos</a>
+</li>
+		</ul>
+</li>
+<li id="archives" class="widget widget_archives"><h2 class="widgettitle">Archives</h2>
+		<ul>
+			<li><a href='../2008/01' title='January 2008'>January 2008</a></li>
+	<li><a href='../2007/12' title='December 2007'>December 2007</a></li>
+	<li><a href='../2007/11' title='November 2007'>November 2007</a></li>
+	<li><a href='../2007/10' title='October 2007'>October 2007</a></li>
+	<li><a href='../2007/09' title='September 2007'>September 2007</a></li>
+	<li><a href='../2007/08' title='August 2007'>August 2007</a></li>
+	<li><a href='../2007/07' title='July 2007'>July 2007</a></li>
+		</ul>
+</li>
+
+</ul>
+
+</div> <!-- end of #sidebar -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id=�bottom-sep�>&nbsp;</div>
+<div id="bottom">
+
+<div class="bottom-divs">
+
+	<!-- Bottom Left -->
+	<div id="bottom-left">
+		<h2>Companion<span>Sites</span></h2>
+		<ul>
+			<li>
+<a href="http://www.youtube.com/profile?user=RoadTrip20" style="display: inline;" onMouseUp="urchinTracker('/bottom/youtube');" target="_blank">YouTube</a>
+<a href="feed://www.youtube.com/rss/RoadTrip20/youtube/videos.rss" style="display: inline; color: #ff9900;" onMouseUp="urchinTracker('/bottom/youtube-rss');" target="_blank">[rss]</a>
+			</li>
+			<li><a href="http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendID=219764644" onMouseUp="urchinTracker('/bottom/myspace');" target="_blank">MySpace</a></li>
+			<li><a href="http://www.facebook.com/profile.php?id=717319407" onMouseUp="urchinTracker('/bottom/facebook');" target="_blank">Facebook</a></li>
+			<li>
+<a href="http://www.flickr.com/photos/10802932@N07/" style="display: inline;" onMouseUp="urchinTracker('/bottom/flickr');" target="_blank">Flickr</a><a  href="http://api.flickr.com/services/feeds/photos_public.gne?id=10802932@N07&lang=en-us&format=rss_200" style="display: inline; color: #ff9900; " onMouseUp="urchinTracker('/bottom/flickr-rss');" target="_blank">[rss]</a>
+			</li>
+			<li><a href="http://www.google.com/calendar/embed?src=road20%40gmail.com"  style="display: inline;" onMouseUp="urchinTracker('/bottom/google-cal');" target="_blank">Google Calendar</a><a href="http://www.google.com/calendar/render?cid=road20%40gmail.com" style="display: inline; color: #ff9900; "  onMouseUp="urchinTracker('/bottom/google-cal-subscribe');" target="_blank">[subscribe]</a></li>
+			<li><a href="http://www.last.fm/user/RoadTrip20/"  style="display: inline;" onMouseUp="urchinTracker('/bottom/lastfm');" target="_blank">Last.fm</a></li>
+		</ul>
+
+	</div>
+	
+	<!-- Bottom Mid -->
+
+	<div id="bottom-mid">
+		<h2>Important<span>Pages</span></h2>
+		<ul>
+		<!-- You list something here but better make it no more than 10 items -->
+			<li><a href="../the-entrepreneurs" title="">The Entrepreneurs</a></li>
+			<li><a href="../the-entrepreneurs/alexi-the-voice-of-reason" title="">Alexi, the Voice of Reason</a></li>
+			<li><a href="../the-entrepreneurs/ben-the-crazy-guy" title="">Ben, the Crazy Guy</a></li>
+			<li><a href="../itinerary" title="">The Itinerary</a></li>
+			<li><a href="../about/the-van" title="">The Van</a></li>
+			<li><a href="../budget" title="">The Tight Budget</a></li>
+			<li><a href="../budget/daily-expense-log" title="">Daily Expense Log</a></li>
+			<li><a href="../about/sponsorships" title="">Sponsorships</a></li>
+		</ul>
+	</div>
+
+
+	<!-- Bottom Right -->
+	<div id="bottom-right">
+		<h2>Rockin<span>Sites</span></h2>
+		<ul>
+			<li><a href="http://www.muncheasy.com/" title="Local Restaurant Delivery. It&#039;s SO MunchEasier than calling!">MunchEasy</a></li>
+<li><a href="http://www.TripStays.com/" title="Vacation Rentals from Around the World!">TripStays</a></li>
+		</ul>
+	</div>
+
+</div>
+
+</div> <!-- end of #bottom -->
+<div id="footer">
+
+	<!-- Credits -->
+	<a href="http://wordpress.org" title="Powered by WordPress">
+		<img class="credits" src="../blog/wp-content/themes/notso_freshe/images/wordpress.gif" alt="Designed by Wolfgang Bartelme" />
+	</a>
+	<a href="http://www.bartelme.at/" title="Designed by Wolfgang Bartelme">
+		<img class="credits" src="../blog/wp-content/themes/notso_freshe/images/bartelme.gif" alt="Designed by Wolfgang Bartelme" />
+	</a>
+	
+	<!-- Copyright -->
+	<p>
+		&copy; 2006 - 2012		<a href="../index.html#top" title="Road Trip 2.0">Road Trip 2.0</a>
+		 | 		Theme <a href="http://www.xsized.de/wordpress-theme-not-so-fresh/" title="(Not so) Fresh theme for WordPress">(Not so) </a><a href="http://www.ilemoned.com/wordpress/wptheme-fresh/" title="Fresh theme for WordPress">Fresh</a>
+		<br/>
+		<a class="validate" href="http://validator.w3.org/check/referer" title="Valid XHTML 1.0 Strict">XHTML</a>
+		<a class="validate" href="http://jigsaw.w3.org/css-validator/check/referer" title="Valid CSS 2.0">CSS</a>
+		<!--a class="validate" href="http://www.contentquality.com/fulloptions.asp?Url1=http://www.roadtrip20.com">508</a-->
+	</p>
+
+	
+</div> <!-- end of #footer -->
+
+</div> <!-- end of #wrapper -->
+</div> <!-- end of #outline -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-67970-12";
+urchinTracker();
+</script>
+
+</body>
+</html> <!-- GOOD BYE -->
